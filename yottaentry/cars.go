@@ -1,6 +1,6 @@
 %GO Global Output Utility
 GT.M 15-FEB-2022 10:15:51
-^CARS("Audi","A3","White","Petrol",2020)
+^CARS("Audi","A3","White","Diesel",2020)
 $12,450
 ^CARS("Audi","A8","Grey","Petrol",2016)
 $13,200
